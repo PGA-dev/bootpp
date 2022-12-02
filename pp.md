@@ -31,12 +31,12 @@ While current websites by manufacturers give specifications on each guitar model
 ## Initial References
 
 1. Jemsite
-    -Ibanez fansite with forum and manufacturer information; started as a Jem model appreciation site
-    -https://www.jemsite.com/
+    - Ibanez fansite with forum and manufacturer information; started as a Jem model appreciation site
+    - https://www.jemsite.com/
 2. Ibanez.com
     - Ibanez home sites for manufacturer infomation on Ibanez guitars
     - https://www.ibanez.com/usa/
-    -http://www.hoshinogakki.co.jp/hoshino_e/
+    - http://www.hoshinogakki.co.jp/hoshino_e/
 
 3. Reverb
     - Reverb is a retail/e-commerce site for new and used gear; great for assessing current market value
@@ -47,11 +47,11 @@ While current websites by manufacturers give specifications on each guitar model
     - https://www.youtube.com/
 
 5. Ibanez.fandom.wiki
-    -https://ibanez.fandom.com/
-    -This site is a standard fan built information site giving specs on the instruments coming from Ibanez - Hoshino Gakki 
+    - https://ibanez.fandom.com/
+    - This site is a standard fan built information site giving specs on the instruments coming from Ibanez - Hoshino Gakki 
 
 6. Keisel.com
     - USA built manufacture/retail-direct-e-commerce site
     - specs on pickups and guitar parts are common, YouTube videos by owner Jeff Kiesel give more detail on product specs
-    -https://www.kieselguitars.com/
+    - https://www.kieselguitars.com/
 
